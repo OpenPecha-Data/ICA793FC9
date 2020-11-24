@@ -3,5 +3,32 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W23629
   title: གསུང་འབུམ། གཞོན་ནུ་བློ་གྲོས།
-  volume: ''
+  volume:
+    ba520b4797de47a3aba4db0d40057f6b:
+      image_group_id: I3503
+      title: ''
+      volume_number: 1
+      total_pages: 560
+    5d86710496664579a0819cc055bea1e9:
+      image_group_id: I3504
+      title: ''
+      volume_number: 2
+      total_pages: 478
+    1301795ab36941a9ac02feb760744a49:
+      image_group_id: I1KG12209
+      title: ''
+      volume_number: 3
+      total_pages: 836
+    bd83b93eb280480a9596e8bd8f60c208:
+      image_group_id: I1KG12210
+      title: ''
+      volume_number: 4
+      total_pages: 394
   author: ''
+ebook_metadata:
+  title: གསུང་འབུམ། གཞོན་ནུ་བློ་གྲོས།
+  author: ''
+  sku: P008145
+  cover: cover.jpg
+  layers:
+  - pagination
