@@ -1,0 +1,99 @@
+id: 166526b4dcca4d50906a91c3fa05d6ae
+annotation_type: Language
+revision: '00001'
+annotations:
+  c427a35838184e4592d74ccb224d631d:
+    span:
+      start: 37
+      end: 167
+    language: en
+  24d348965ba94e4d80650494e81f33ee:
+    span:
+      start: 266
+      end: 1322
+    language: en
+  e44b1b6fa097426aa99984e798b9e5f2:
+    span:
+      start: 1378
+      end: 1462
+    language: en
+  dd74633b51ed4ba2b71145377993e906:
+    span:
+      start: 1489
+      end: 2333
+    language: en
+  5c0d9be15ead4455b7c428e0af5df276:
+    span:
+      start: 29482
+      end: 29695
+    language: en
+  266ab8a38dcb487993ed7ed7c1158c51:
+    span:
+      start: 73606
+      end: 73811
+    language: en
+  2725904afca242bc8a5a8ed64a141680:
+    span:
+      start: 84397
+      end: 84596
+    language: en
+  71ee4a9d2cb24a6482d9b67e60d412ff:
+    span:
+      start: 141504
+      end: 141719
+    language: en
+  533344587204481ab2552afe98288e2b:
+    span:
+      start: 152286
+      end: 152485
+    language: en
+  668e49b7207744b8b6c1a74dc7e4672d:
+    span:
+      start: 246914
+      end: 247109
+    language: en
+  2f78cc61dd734d74860022776a054d70:
+    span:
+      start: 308852
+      end: 309063
+    language: en
+  0363e75286e24cd6aeb300f5951d7863:
+    span:
+      start: 321124
+      end: 321322
+    language: en
+  371ef02978f64412ae5a5e243ba310f2:
+    span:
+      start: 330730
+      end: 330941
+    language: en
+  540b4ecaf261425981e64f00a5097f16:
+    span:
+      start: 443113
+      end: 443310
+    language: en
+  70bf74ab5b4b4b61853d414d3a76216c:
+    span:
+      start: 493133
+      end: 493337
+    language: en
+  00420ec8b1b7489ebda21e4a00344d00:
+    span:
+      start: 673732
+      end: 673935
+    language: en
+  78dca384c44a4c3e9166aa835161c4a0:
+    span:
+      start: 714450
+      end: 714653
+    language: en
+  61594f193bed4830aeacb5b4504830ed:
+    span:
+      start: 912784
+      end: 912972
+    language: en
+  300665d3fced494d9b452fe74f76bf4f:
+    span:
+      start: 962422
+      end: 962642
+    language: en
